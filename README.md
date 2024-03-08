@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dquick15
-- 👀 I’m interested in predictive analytics in sports, social climates, and health care. I am all about improving performance in those industries.
-- 🌱 I’m currently learning how to develop various performance projects in multiple languages (SQL, Python, and R)
-- 💞️ I’m looking to collaborate on anything regarding the industries I mentioned above.
+- 👀 I enjoy utilizing tools in Data Engineering, Data Science and Machine Learning to build fun projects. 
+- 🌱 I’m currently growing in my abilities to develop ETL pipelines, Data Processing Systems, LLMs and AI training.
+- 💞️ I’m looking to collaborate on anything in the sports industry, and anything dealing with Generative AI.
 - 📫 How to reach me ...davidquickjr@yahoo.com
 
 <!---
