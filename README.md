@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dquick15
 - 👀 I enjoy utilizing tools in Data Engineering, Data Science and Machine Learning to build fun projects. 
 - 🌱 I’m currently growing in my abilities to develop ETL pipelines, Data Processing Systems, LLMs and AI training.
-- 💞️ I’m looking to collaborate on anything in sports, media, streaming, public health and anything dealing with Generative AI.
+- 💞️ I’m looking to collaborate on anything in sports, finance, public health and anything dealing with Generative AI.
 - 📫 How to reach me ...davidquickjr@yahoo.com
 
 <!---
